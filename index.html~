@@ -21,7 +21,7 @@
     <div class="container">
         <h1>The Interconnected Everything</h1>
         <p class="lead" id="intro">An impartial, open-source look at the products on how screwed we'd all be if World War III broke out. <span class="text-muted">The United States more than anyone else.</span></p>
-	<p id="scenario">Imagine the world at war. Let's be realistic, and go with <b><span style="color: #C0392B">USA</span> against <span style="color: #2980B9" >Russia</span></b> - a showdown played out in Olympic hockey rinks for decades. Let's think about that for a moment. Not diplomatic threats, not puppet wars, but actual, full-out wars with the two countries with the most nukes and allies (in that order) than any other country or trans-national organization <b>on the planet</b>.</p>
+	<p id="scenario">Imagine the world at war. Let's be realistic, and go with <b><span style="color: #C0392B">USA</span> & <span style="color: #2980B9" >Russia</span></b> - a showdown played out in Olympic hockey rinks for decades. Let's think about that for a moment. Not diplomatic threats, not puppet wars, but actual, full-out wars with the two countries with the most nukes and allies (in that order) than any other country or trans-national organization <b>on the planet</b>.	</p>
 	<img src="images/cookieforyou.jpg" width="100%">
 	<small> "No cookies for you, America. Or vodka, Russian crab <a href="http://qz.com/110911/america-imports-three-times-more-russian-crab-than-vodka-and-other-items-that-make-more-sense-to-boycott-than-stoli/">(which you all seem to enjoy more than vodka)</a>, plywood, or fuel. Nada!"</small>
 
