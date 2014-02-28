@@ -11,6 +11,8 @@
     <!-- Loading Flat UI -->
     <link href="css/flat-ui.css" rel="stylesheet">
     <link href="css/demo.css" rel="stylesheet">
+	<!-- tocify for the Table of Contents -->
+    <link href="css/jquery.tocify.css" rel="stylesheet">
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
@@ -22,7 +24,7 @@
         <h1>The Globalization Initiative</h1>
         <p class="lead" id="intro">An impartial, open-source look at the products on how screwed we'd all be if World War III broke out. <span class="text-muted">The United States more than anyone else.</span></p>
 	<p id="scenario">Imagine the world at war. Let's be realistic, and go with <b><span style="color: #C0392B">USA</span> & <span style="color: #2980B9" >Russia</span></b> - a showdown played out in Olympic hockey rinks for decades. Let's think about that for a moment. Not diplomatic threats, not puppet wars, but actual, full-out wars with the two countries with the most nukes and allies (in that order) than any other country or trans-national organization <b>on the planet</b>.	</p>
-<p>Russia exports plywood and oil. They also export Russian crabs and vodka, but they aren't significant at this moment.</p>
+<p>Russia exports plywood and oil. They also export Russian crabs and vodka, but they aren't significant at this moment. What does matter, however, is plywood and oil. We rely <b>heavily</b> on Russia for oil, so we'd essentially have to chose between heating New York City or powering the gas-guzzling aircraft carriers that are the workhorses of our Navy.</p>
 
     </div> <!-- /container -->
     <!-- scripts go at the end. jquery & bootstrap were both made in the States. Hosted by Github pages, which is in the States. -->
@@ -39,5 +41,7 @@
     <script src="js/jquery.stacktable.js"></script>
     <script src="http://vjs.zencdn.net/4.3/video.js"></script>
     <script src="js/application.js"></script>
+    <script src="js/jquery.tocify.min.js""></script>
+
 </body>
   </html>
