@@ -848,7 +848,7 @@ fieldset[disabled] .btn-inverse.active {
 }
 .link-text-muted:hover,
 .link-text-muted:focus {
-  color: #7F8C8D;
+  color: #7F8C8D:
   background-color: transparent;
 }
 .btn-link:hover,

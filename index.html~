@@ -22,40 +22,24 @@
   <body>
     <div class="container">
         <h1>The Globalization Initiative</h1>
-        <p class="lead" id="intro">An impartial, open-source look at the products Americans every single day. <span class="text-muted">Or in other words, why you <strong>should</strong> care about things happening in El Salvador, India & China.<span></p>
-                <div id="toc"></div>
+        	<p class="lead" id="intro">An impartial, open-source look at the products Americans every single day. <span class="text-muted">Or in other words, why you <strong>should</strong> care about things happening in El Salvador, India & China.<span></p>
+                	<div id="toc"></div>
 	<h4><a href="#computer"><span id="computer">#</span></a> &nbsp; &nbsp; Your Computer</h3>
-<div class="login">
-        <div class="login-screen">
-          <div class="login-icon">
-            <h4>This is <small>your computer.</small></h4>
-          </div>
-
-          <div class="login-form">
-            <div class="form-group">
-              <input type="text" class="form-control login-field" value="" placeholder="Enter your name" id="login-name">
-              <label class="login-field-icon fui-user" for="login-name"></label>
-            </div>
-
-            <div class="form-group">
-              <input type="password" class="form-control login-field" value="" placeholder="Password" id="login-pass">
-              <label class="login-field-icon fui-lock" for="login-pass"></label>
-            </div>
-
-            <a class="btn btn-primary btn-lg btn-block" href="#">Login</a>
-            <a class="login-link" href="#">Lost your password?</a>
-          </div>
-        </div>
-      </div>
-  <div class="col-md-5"><p> It's a Mac. For the sake of argument, it's a Mac. <br> </div>
-</div>
-
-
-
-
-</p>
-
-0
+		<div class="row">
+			<div class="col-md-10">
+				<div class="login">
+					<div class="login-screen">
+						 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Proudly boasting "Designed by Apple in California", do you really know where your Macintosh-type thing comes from? Chances are, not here.
+						<br>
+						<br>
+						&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The shiny case that makes your beautiful Mac look like a Mac, and not a Windows piece of poop, is manufactured by a nice company, <strong>Catcher Technology</strong>, which was <a href="http://news.cnet.com/8301-13506_3-20121915-17/plant-closure-could-affect-macbook-pro-shipments-report-says/">ordered to shut down by the Taiwanese government</a> because of foul, toxic odors emitting from their factory.
+      					</div>
+ 				</div>
+			</div>
+			<div class="col-md-2">
+			<p class="text-muted"><a class = "link-text-muted" href="http://images.apple.com/environment/reports/docs/21_5inch_iMac_PER_feb2014.pdf"> You can view Apple's environmental report for their latest iMac here</a></p>
+			</div>
+		</div>
     </div> <!-- /container -->
     <!-- scripts go at the end. jquery & bootstrap were both made in the States. Hosted by Github pages, which is in the States. -->
     <script src="js/jquery-1.8.3.min.js"></script>
